@@ -1,5 +1,5 @@
 <svg version="1.1"
-     width="640" height="200"
+     width="620" height="200"
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -22,9 +22,9 @@
   </text>
 
   <text x="230" y="84" font-style="italic" text-anchor="start" fill="#333">
-    The <tspan fill="#ff6347">standard</tspan>
+    The javascript
   </text>
   <text x="230" y="156"  font-style="italic" text-anchor="start" fill="#333">
-    javascript library
+    <tspan fill="#ff6347">standard</tspan> library
   </text>
 </svg>
